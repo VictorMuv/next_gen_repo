@@ -1,1 +1,1 @@
-#My First Git Repository
+#PoC of creating Auterion OS apps
